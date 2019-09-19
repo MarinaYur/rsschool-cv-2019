@@ -9,9 +9,9 @@ Some years worked as Leading economist.Since I realized that in this 
 My desire is to realize myself in the field of activity that interests me. Namely in programming. By nature,I can learning that interests me myself. And I know how to do it. Immersed in programming. I enjoy learning.I really want to reach the level where I can work already in a realproject as a part of team.
 
 **Education**
-codecademy.com: completed HTML and CSS courses,
-codewars.com: learn programming on javascript;
-read book: The Modern JavaScript Tutorial by Ilya Kantor.
+Codecademy.com: completed HTML and CSS courses.
+Codewars.com: learn programming on javascript.
+Read book: The Modern JavaScript Tutorial by Ilya Kantor.
 
 **English**
 English level - Pre-Intermediate.
